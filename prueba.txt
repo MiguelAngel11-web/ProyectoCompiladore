@@ -1,0 +1,4 @@
+if prueba:
+	#texto de marcado
+else:
+	otracosa = 1
